@@ -1,8 +1,3 @@
-Team members:
-Yu Chang: ychang54@usc.edu
-Sheng-Kuo Lin: slin7099@usc.edu
-Jung Chen: jungchen@usc.edu
-
 --------------------------------
 
 globals.py: global variables
