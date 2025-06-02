@@ -1,7 +1,9 @@
-![Animation](./animation.gif)
+
 # Project Structure Overview
 
-A clear breakdown of the project files and their responsibilities.
+<p>
+  <img src="animation.gif" alt="Animation" width="30%">
+</p>
 
 ---
 
