@@ -1,3 +1,4 @@
+![Animation](./animation.gif)
 # Project Structure Overview
 
 A clear breakdown of the project files and their responsibilities.
